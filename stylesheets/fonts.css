@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Butler';
+  src: url(../fonts/Butler_Medium.otf);
+}
+
+@font-face {
+  font-family: 'Alexandria';
+  src: url(../fonts/Alexandria-Medium.ttf);
+}
+
+@font-face {
+  font-family: 'AlumniSans';
+  src: url(../fonts/AlumniSans-Medium.ttf);
+}
+
+@font-face {
+  font-family: 'FiraCode';
+  src: url(../fonts/FiraCode-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: 'FiraCodeBold';
+  src: url(../fonts/FiraCode-Bold.ttf);
+}
+
+@font-face {
+  font-family: 'Kapakana';
+  src: url(../fonts/Kapakana.ttf);
+}
